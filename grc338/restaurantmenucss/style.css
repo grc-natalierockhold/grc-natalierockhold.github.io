@@ -1,5 +1,6 @@
-body {
-  align: center;
+.content {
+  max-width: 500px;
+  margin: auto;
 }
 
 h1 {
