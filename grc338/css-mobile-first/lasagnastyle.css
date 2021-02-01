@@ -20,6 +20,18 @@ h3 {
     padding: 20px 20px 20px 20px;
 }
 
+.ingredients li {
+    padding-left: 2em;
+    text-indent: -2em;
+    margin: .7em auto;
+}
+
+.ingredients li::before {
+    content: "▢";
+    padding-right: 1em;
+}
+
+
 img {
     width: 100%; /*Please leave this line.*/
 }
