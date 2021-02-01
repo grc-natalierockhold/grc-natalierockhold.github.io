@@ -9,6 +9,23 @@ body{
     padding: 10px 10px 10px 10px;
 }
 
+.directions {
+    padding: 5% 10%;
+    border-top: #AAAAAA solid 1px;
+    border-bottom: #AAAAAA solid 1px;
+}
+
+.directions li {
+    margin: .7em auto;
+    padding-left: .5em;
+    line-height: 1.3em;
+}
+
+.directions li::marker {
+    font-weight: 800;
+}
+
+
 h2 {
     padding: 20px 20px 20px 20px;
     font-family: Georgia, serif;
