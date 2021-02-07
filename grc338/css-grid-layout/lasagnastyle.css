@@ -11,11 +11,11 @@ body {
     grid-template-areas: 'header header' 'recipeImage recipeImage' 'main main' 'footer footer';
     row-gap: 2em;
     margin: 3em auto;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Georgia, serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: Georgia, serif;
 }
 
 h2 {
@@ -37,7 +37,7 @@ h6 {
 
 header {
     grid-area: header;
-    background: rgb(255, 252, 242);
+    background: #E04332;
 }
 
 figure {
@@ -63,7 +63,7 @@ figure figcaption {
     font-size: .9em;
     margin: 0 auto auto auto;
     padding: 1em;
-    background: rgb(255, 252, 242);
+    background: #E04332;
 }
 
 main {
@@ -78,7 +78,7 @@ main {
     grid-column: 1/2;
     margin: 0 auto auto auto;
     padding: 5% 10%;
-    background: rgb(255, 252, 242);
+    background: #E04332;
 }
 
 .ingredients ul {
@@ -116,5 +116,5 @@ main {
 footer {
     grid-area: footer;
     text-align: center;
-    background: rgb(255, 252, 242);
+    background: #E04332;
 }
