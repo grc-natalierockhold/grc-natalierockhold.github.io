@@ -52,7 +52,7 @@ nav ul li {
 nav ul li a {
     text-decoration: none;
     color: #ffffff;
-    font-family: Gill Sans, sans-serif;
+    font-family: caviardreams;
     text-transform: uppercase;
     font-weight: 500;
 }
@@ -63,7 +63,7 @@ h1 {
 }
 
 h2 {
-    font-family: Gill Sans, sans-serif;
+    font-family: caviardreams;
     font-weight: 600;
     font-size: 1.5em;
     margin-bottom: 0.5em;
@@ -82,7 +82,7 @@ h3 {
 }
 
 h4 {
-    font-family: Gill Sans, sans-serif;
+    font-family: caviardreams;
     font-weight: 500;
     font-size: 1.1em;
     text-align: center;
@@ -92,7 +92,7 @@ h4 {
 }
 
 p {
-    font-family: Gill Sans, sans-serif;
+    font-family: caviardreams;
     font-size: 1em;
     text-align: center;
     margin: 2em;
