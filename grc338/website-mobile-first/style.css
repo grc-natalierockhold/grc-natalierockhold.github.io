@@ -54,6 +54,7 @@ nav ul li a {
 
 h1 {
     font-family: nothingforyou;
+    font-size: 2em;
 }
 
 h2 {
@@ -64,7 +65,7 @@ h2 {
     text-align: center;
     letter-spacing: 0.2em;
     text-transform: uppercase;
-    color: #729473;
+    color: #FFFFFF;
 }
 h3 {
     font-family: Gill Sans, sans-serif;
