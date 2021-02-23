@@ -6,6 +6,11 @@ img {
     align-content: center;
 }
 
+@font-face {
+font-family: "nothingforyou";
+src: url("NothingForYou4.otf") format("opentype");
+}
+
 figure {
     margin: 0em 1.5em 0em 1.5em;
 }
@@ -46,6 +51,10 @@ nav ul li a {
     font-family: Gill Sans, sans-serif;
     text-transform: uppercase;
     font-weight: 500;
+}
+
+h1 {
+    font-family: nothingforyou;
 }
 
 h2 {
