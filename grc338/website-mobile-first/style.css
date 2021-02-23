@@ -10,6 +10,11 @@ font-family: "nothingforyou";
 src: url("NothingForYou4.otf") format("opentype");
 }
 
+@font-face {
+font-family: "caviardreams";
+src: url("caviardreams.ttf") format("ttf");
+}
+
 figure {
     margin: 0em 1.5em 0em 1.5em;
 }
