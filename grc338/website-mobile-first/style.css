@@ -1,7 +1,7 @@
 /*CSS DOCUMENT*/
 
 img {
-    width: 50%;
+    width: 20%;
     align-content: center;
 }
 
@@ -52,14 +52,14 @@ nav ul li {
 nav ul li a {
     text-decoration: none;
     color: #ffffff;
-    font-family: caviardreams;
+    font-family: nothingforyou;
     text-transform: uppercase;
     font-weight: 500;
 }
 
 h1 {
     font-family: nothingforyou;
-    font-size: 2em;
+    font-size: 5em;
 }
 
 h2 {
