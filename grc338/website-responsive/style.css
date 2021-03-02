@@ -1,0 +1,117 @@
+/*CSS DOCUMENT*/
+
+img {
+    width: 40%;
+    align-content: center;
+}
+
+@font-face {
+font-family: "nothingforyou";
+src: url("NothingForYou4.otf") format("opentype");
+}
+
+@font-face {
+font-family: "caviardreams";
+src: url("caviardreams.ttf") format("ttf");
+}
+
+figure {
+    margin: 0em 1.5em 0em 1.5em;
+}
+body {
+    background-color: #E5D5EE;
+    text-align: center;
+}
+div.container {
+    text-align: center;
+}
+
+#logo {
+    width: 10em;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+nav ul {
+    padding: 0.8em;
+    background-color: #A59CD6;
+    margin: 0.5em;
+}
+
+nav ul li {
+    list-style-type: none;
+    display: inline;
+    margin: 1.5em;
+    font-family: nothingforyou;
+    text-transform: uppercase;
+    font-weight: 500;
+    text-decoration: none;
+}
+nav ul li a {
+    text-decoration: none;
+    color: #ffffff;
+    font-family: nothingforyou;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 2em;
+}
+
+h1 {
+    font-family: nothingforyou;
+    font-size: 5em;
+}
+
+h2 {
+    font-family: caviardreams;
+    font-weight: 600;
+    font-size: 1.5em;
+    margin-bottom: 0.5em;
+    text-align: center;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+h3 {
+    font-family: Gill Sans, sans-serif;
+    font-weight: 500;
+    text-transform: uppercase;
+    font-size: 2em;
+    letter-spacing: 0.1em;
+}
+
+h4 {
+    font-family: caviardreams;
+    font-weight: 500;
+    font-size: 1.1em;
+    text-align: center;
+    padding-right: 2em;
+    margin-bottom: 0.6em;
+    margin-top: 1em;
+}
+
+p {
+    font-family: caviardreams;
+    font-size: 1em;
+    text-align: center;
+    margin: 2em;
+    padding-right: 1em;
+    margin-bottom: 0.7em;
+    margin-top: 0.5em;
+}
+
+@media screen and (min-width: 60em){
+     main{
+         max-width:40em;
+         display:block;
+         margin: auto;
+    }
+
+li {
+    list-style-type: none;
+}
+
+footer {
+    font-size: 0.5em;
+}
