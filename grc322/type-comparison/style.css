@@ -23,15 +23,11 @@ figure {
 @font-face {
     font-family: franklin gothic;
     src: url("franklingothic.ttf") format('truetype');
-    font-weight: bold;
-    font-style: normal;
 }
 
 @font-face {
     font-family: trade gothic;
     src: url("trade gothic.ttf") format('truetype');
-    font-weight: bold;
-    font-style: normal;
 }
 
 h1, h2, h3, h4, p, ul, ol, li {
