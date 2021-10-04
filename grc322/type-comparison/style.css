@@ -20,6 +20,20 @@ figure {
 	margin: 1em 0;
 }
 
+@font-face {
+    font-family: franklin gothic;
+    src: url("grc-natalierockhold.github.io/grc322/type-comparison/franklingothic.ttf") format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: trade gothic;
+    src: url("grc-natalierockhold.github.io/grc322/type-comparison/trade gothic.ttf") format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
 h1, h2, h3, h4, p, ul, ol, li {
 	margin: 10; 
 	padding:10; 
