@@ -21,8 +21,8 @@ figure {
 }
 
 h1, h2, h3, h4, p, ul, ol, li {
-	margin: 0; 
-	padding:0; 
+	margin: 10; 
+	padding:10; 
 	font-size: 1em; 
 	font-weight: normal;
 }
