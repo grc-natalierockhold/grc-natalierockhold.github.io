@@ -4,7 +4,7 @@
 body {
 	background-color: #fafafa;
 	color: #333333;
-	font-family: _____;
+	font-family: work sans;
 }
 
 div.container {
@@ -28,12 +28,14 @@ h1, h2, h3, h4, p, ul, ol, li {
 }
 
 h1 {
-	font-size: ______; 
+	font-family: franklin gothic;
+	font-size: 14; 
 	font-weight: _____;
 }
 
 h2 {
-	font-size: ______; 
+	font-family: trade gothic;
+	font-size: 14; 
 	font-weight: _____;
 }
 
