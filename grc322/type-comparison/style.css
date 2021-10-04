@@ -20,16 +20,6 @@ figure {
 	margin: 1em 0;
 }
 
-@font-face {
-    font-family: franklin gothic;
-    src: url("franklingothic.ttf") format('truetype');
-}
-
-@font-face {
-    font-family: trade gothic;
-    src: url("trade gothic.ttf") format('truetype');
-}
-
 h1, h2, h3, h4, p, ul, ol, li {
 	margin: 10; 
 	padding:10; 
@@ -38,13 +28,13 @@ h1, h2, h3, h4, p, ul, ol, li {
 }
 
 h1 {
-	font-family: franklin gothic;
+	font-family: baskerville;
 	font-size: 16; 
 	font-weight: normal;
 }
 
 h2 {
-	font-family: trade gothic;
+	font-family: ;
 	font-size: 16; 
 	font-weight: normal;
 }
