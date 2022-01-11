@@ -9,30 +9,36 @@ body {
 	}
 	
 div.container {
-        display: _____ ;
-        flex-wrap: _____ ;
+        display: flex ;
+        flex-wrap: wrap ;
         max-width: 60em;
         margin: 1em;
         padding: 1em;
 }
 
 header {
-    flex: _____ ;
+    flex-basis: 100% ;
+	flex-shrink: 0 ;
 }
 
 article {
-    flex: _____ ;
+    flex-basis: 30em ;
     margin-right: 1em;
+	flex-shrink: 0 ;
+	flex-grow: 1 ;
 }
 
 aside {
-    flex: _____ ;
+    flex-basis: 15em ;
+	flex-shrink: 0 ;
+	flex-grow: 1 ;
 }
 
 footer {
-    flex: _____ ;
+    flex-basis: 100% ;
     border-top: solid 1px #aaa;
     margin-top: 2em;
+	flex-shrink: 0 ;
 }
 
 a {
@@ -81,7 +87,7 @@ section p {
 @media only screen and (min-width: 60em) {
 
   div.container {
-    margin: _____ ;
+    margin: auto ;
   }
 
 }
